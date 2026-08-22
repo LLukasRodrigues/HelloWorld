@@ -1,4 +1,4 @@
-# Hello World. how are you?
+# Hello World. How are you?
 Primeiro Repositorio
 
 Repositorio criado do nada e do alem na madrugas
